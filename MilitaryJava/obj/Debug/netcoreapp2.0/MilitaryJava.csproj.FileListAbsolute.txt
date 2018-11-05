@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\bin\Debug\netcoreapp2.0\MilitaryJava.deps.json
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\bin\Debug\netcoreapp2.0\MilitaryJava.runtimeconfig.json
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\bin\Debug\netcoreapp2.0\MilitaryJava.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\bin\Debug\netcoreapp2.0\MilitaryJava.dll
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\bin\Debug\netcoreapp2.0\MilitaryJava.pdb
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\obj\Debug\netcoreapp2.0\MilitaryJava.csprojAssemblyReference.cache
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\obj\Debug\netcoreapp2.0\MilitaryJava.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\obj\Debug\netcoreapp2.0\MilitaryJava.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\obj\Debug\netcoreapp2.0\MilitaryJava.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\obj\Debug\netcoreapp2.0\MilitaryJava.dll
+C:\Users\Kosta\source\repos\MilitaryJava\MilitaryJava\obj\Debug\netcoreapp2.0\MilitaryJava.pdb
